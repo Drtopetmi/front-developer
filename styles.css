@@ -122,3 +122,14 @@ div {
     text-align: center;
   }
 }
+@media (max-width: 576px) {
+  h2 {
+    font-size: 26px;
+    text-align: center;
+  }
+}
+@media (max-width: 576px) {
+  p {
+    text-align: center;
+  }
+}
