@@ -116,3 +116,10 @@ div {
 .launch-link:hover {
   color: purple;
 }
+@media (max-width=576px) {
+  h1,
+  h2,
+  p {
+    text-align: center;
+  }
+}
