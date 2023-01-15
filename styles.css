@@ -116,3 +116,6 @@ div {
 .launch-link:hover {
   color: purple;
 }
+body {
+  color: red;
+}
