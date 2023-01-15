@@ -117,9 +117,8 @@ div {
   color: purple;
 }
 @media (max-width: 576px) {
-  h1,
-  h2,
-  p {
+  h1 {
+    font-size: 46px;
     text-align: center;
   }
 }
